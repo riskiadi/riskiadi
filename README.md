@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=riskiadi&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/riskiadi) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskiadi&hide=html,css&langs_count=8&theme=vue&layout=compact)](https://github.com/riskiadi)
 
 
