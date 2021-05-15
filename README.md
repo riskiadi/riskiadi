@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizki Adi</h1>
 <h3 align="center">A passionate Android and IoT developer from Indonesia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riskiadi&label=Profile%20views&color=0e75b6&style=flat" alt="riskiadi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riskiadi&label=Profile%20views&color=lightgrey&style=flat" alt="riskiadi" /> </p>
 
 - 🌱 I’m currently learning **Kotlin, Flutter, IoT and more.**
 
