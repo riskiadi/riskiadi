@@ -23,7 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskiadi&hide=html,css&hide_border=true&hide_title=true&langs_count=8&theme=vue&layout=compact)](https://github.com/riskiadi)
 
 <h3 align="left">Languages and Tools:</h3>
-
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a>
