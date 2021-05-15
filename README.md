@@ -9,11 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/rizki-adi-saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/riskiadi/riskiadi/cc9cecdb32433a2d6f38538e6f7f005f2bdab9a2/assets/icons/linkedin.svg" alt="rizki-adi-saputra" height="30" width="40" /></a>
-  
-<a href="https://riskiadi.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/riskiadi/riskiadi/cc9cecdb32433a2d6f38538e6f7f005f2bdab9a2/assets/icons/web.svg" alt="rizki-adi-saputra" height="30" width="40" /></a>
-
-<a href="https://instagram.com/rizkiadisp" target="blank"><img align="center" src="https://raw.githubusercontent.com/riskiadi/riskiadi/cc9cecdb32433a2d6f38538e6f7f005f2bdab9a2/assets/icons/instagram.svg" alt="rizkiadisp" height="30" width="40" /></a>
+<a href="https://riskiadi.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/riskiadi/riskiadi/c63138eb66aa2daa3d32489559370eb1806ba972/assets/icons/github.svg" alt="rizki-adi-saputra" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/rizki-adi-saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/riskiadi/riskiadi/c63138eb66aa2daa3d32489559370eb1806ba972/assets/icons/linkedin.svg" alt="rizki-adi-saputra" height="40" width="50" /></a>
+<a href="https://instagram.com/rizkiadisp" target="blank"><img align="center" src="https://raw.githubusercontent.com/riskiadi/riskiadi/c63138eb66aa2daa3d32489559370eb1806ba972/assets/icons/instagram.svg" alt="rizkiadisp" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Github Status:</h3>
