@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riskiadi&label=Profile%20views&color=lightgrey&style=flat" alt="riskiadi" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, Flutter, IoT and more.**
+- 🌱 I’m currently learning **Kotlin, Flutter, IoT, Network Administrator and more.**
 
 - ⚡ 2021 Goals: **Developing IoT in military operations.**
 
